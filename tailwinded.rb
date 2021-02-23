@@ -72,7 +72,7 @@ file 'README.md', markdown_file_content, force: true
 ############################# After bundle install #############################
 after_bundle do
   rails_command 'db:drop db:create db:migrate'
-  generate('tailwindcss:install')
+  rails_command('tailwindcss:install')
   generate('simple_form:install')
   generate('rspec:install')
 
