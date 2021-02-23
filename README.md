@@ -7,3 +7,7 @@ bootstrap css and js already configured. It also arranges default folder structu
 
 My main pain point was that I really like to start new projects and the hardest part is the beginning where I spend hours just configuring my gems and test configurations.
 This project saves me time by getting everything ready to start building what really matters.
+
+## Tailwinded.rb
+
+All of the above while using tailwind.css
